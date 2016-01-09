@@ -1,0 +1,9 @@
+Package: com.cabralcole.transparentfolders
+Name: TransparentFolders
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Transparent Folders for iOS 9.0+!
+Maintainer: cabralcole
+Author: cabralcole
+Section: Tweaks
